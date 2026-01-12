@@ -9,6 +9,6 @@ Ce projet est une interface proposant et facilitant des traitements sur des imag
 Le projet propose, l'import, l'export d'image. Les extensions supportées sont .jpeg , .png , .jpg 
 
 Une fois l'image importé, l'utilisation peut appliquer des traitements tel que la transformation en noir&blanc par exemple.
-L'ensemble des transformations possibles sont répertoriées dans le fichier explication.pdf contenu dans le projet. 
+L'ensemble des transformations possibles sont répertoriées dans le fichier explication_interface.pdf contenu dans le projet. 
 
 Amusez-vous bien ! 
